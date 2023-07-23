@@ -1525,6 +1525,8 @@ a:hover.back-to-top {
 /*****************************/	
 /* Min-width width 768px */
 @media (min-width: 768px) {
+
+	.mobile-break { display: none; }
 	
 	/* General Styles */
 	.p-heading {
@@ -1731,6 +1733,8 @@ a:hover.back-to-top {
 
 /* Min-width width 992px */
 @media (min-width: 992px) {
+
+	.mobile-break { display: block; }
 	
 	/* Navigation */
 	.navbar-custom .social-icons {
@@ -1936,6 +1940,8 @@ a:hover.back-to-top {
 
 /* Min-width width 1200px */
 @media (min-width: 1200px) {
+
+	.mobile-break { display: none; }
 	
 	/* Navigation */
 	.navbar-custom {

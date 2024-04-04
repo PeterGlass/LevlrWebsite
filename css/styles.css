@@ -1787,7 +1787,7 @@ a:hover.back-to-top {
 	}
 
 	.header .image-container {
-		margin-top: 6rem;
+		margin-top: 0rem;
 	}
 	/* end of header */
 
@@ -1963,7 +1963,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header .text-container {
-		margin-top: 7.5rem;
+		margin-top: 5rem;
 	}
 
 	.header .image-container {
